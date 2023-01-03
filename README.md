@@ -43,7 +43,7 @@ export PATH="${ANDROID_HOME}/platform-tools:${PATH}"
 # How to Run
 1. open android emulator device (we are using Nexus 5X with android version is 8)
 2. install apk. we can find apk in src/test/resources/app
-2. open TestRunner java file
+2. open TestRunner java file.
 2. click run in TestRunner java class. we run using feature tags.
 3. if you using appium server gui, make sure the server is not running with the same ip and port with our automation.
 
